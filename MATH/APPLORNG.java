@@ -72,7 +72,7 @@ class Codechef
 		int c = sc.nextInt();
 		if(b+c <= a)
 		    System.out.println("YES");
-	    else
-	        System.out.println("NO");
+		else
+		    System.out.println("NO");
 	}
 }
