@@ -6,6 +6,7 @@ Each line contains one integer: N [0 <= N <= 10^6]
 
 Output
 Output given numbers in non decreasing order.
+
 Example
 Input:
 5
